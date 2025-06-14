@@ -26,4 +26,7 @@ public class D {
     public void MD2() {
         System.out.println("Método MD2()");
     }
+    public void MD4() { // Este é o método adicionado via GitHub
+        System.out.println("Método MD4() - Alteração no GitHub");
+    }
 }
